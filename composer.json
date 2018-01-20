@@ -1,0 +1,11 @@
+{
+    "name": "wrossmann/pc-iters",
+    "description": "Memory-efficient permutation and combination generators.",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"wrossmann\\PCIters\\": "src/"
+    	}
+    }
+}
